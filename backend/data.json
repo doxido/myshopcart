@@ -1,0 +1,71 @@
+{
+    "cartItems": [
+        {
+            "id": "123",
+            "name": "Basil",
+            "price": "$26.00",
+            "imageName": "basil-bottle.webp"
+        },
+        {
+            "id": "234",
+            "name": "Lemon",
+            "price": "$26.00",
+            "imageName": "lemon-bottle.webp"
+        },
+        {
+            "id": "345",
+            "name": "Garlic",
+            "price": "$26.00",
+            "imageName": "garlic-bottle.webp"
+        }],
+    "products": [
+        {
+            "id": "123",
+            "name": "Basil",
+            "price": "$26.00",
+            "imageName": "basil-bottle.webp"
+        },
+        {
+            "id": "234",
+            "name": "Lemon",
+            "price": "$26.00",
+            "imageName": "lemon-bottle.webp"
+        },
+        {
+            "id": "345",
+            "name": "Garlic",
+            "price": "$26.00",
+            "imageName": "garlic-bottle.webp"
+        },
+        {
+            "id": "456",
+            "name": "Rosemary",
+            "price": "$26.00",
+            "imageName": "rosemary-bottle.webp"
+        },
+        {
+            "id": "567",
+            "name": "Chili",
+            "price": "$26.00",
+            "imageName": "chili-bottle.webp"
+        },
+        {
+            "id": "678",
+            "name": "Delicate",
+            "price": "$24.50",
+            "imageName": "delicate-bottle.webp"
+        },
+        {
+            "id": "789",
+            "name": "Medium",
+            "price": "$24.50",
+            "imageName": "medium-bottle.webp"
+        },
+        {
+            "id": "890",
+            "name": "Bold",
+            "price": "$24.50",
+            "imageName": "bold-bottle.webp"
+        }
+    ]
+}
