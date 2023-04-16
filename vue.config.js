@@ -1,8 +1,11 @@
 // vue.config.js
 const { defineConfig } = require('@vue/cli-service')
+require('dotenv').config()
 
+//
 const demo = ''
 
+//Module Exports
 module.exports = defineConfig({
   // options...
   pages: {

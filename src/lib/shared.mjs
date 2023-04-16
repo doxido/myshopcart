@@ -1,9 +1,8 @@
 //
 import axios from "axios";
 
-//env?
-const HOST = 'http://localhost:3000'
-
+//HOST from remote server or local host
+const HOST = process.env.VUE_APP_API_URL || 'http://localhost:3000'
 
 //Interface
 //errors
