@@ -14,7 +14,7 @@ const postData = async props => (await axios.post(HOST + props.resource, props.p
 //errors
 const putData  = async props => (await axios.put(HOST + props.resource, props.params)).data 
 
-//
+//exported entities
 export { getData, putData, postData }
 
 
