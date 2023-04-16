@@ -1,5 +1,6 @@
 <template>
   <h1>Products</h1>
+  <h2>Just another shopping cart app</h2>
   <div class="grid-wrap">
       <div v-for="product in this.$store.state.entities[label]" :key="product.id">
         <ProductViews :product="product" view="LIST" />
@@ -15,6 +16,6 @@
     name: "ProductsPage",
     data: () => ({  label: 'products' }),
     async created() { this.$store.dispatch('getEntities', this.label);  },
-    components: {   ProductViews  },
+    components: { ProductViews  },
   }
 </script>
