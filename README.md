@@ -47,7 +47,7 @@ Perform the following steps:
     To create a production build, run npm run build.
     ```
 1. Access the following URL in the Chrome.  
-[http://localhost:3000](http://localhost:3000)
+[http://localhost:3000](http://localhost:3000) or from the address of the remote server
 
 ## Creating a Production Build
 Perform the following command:

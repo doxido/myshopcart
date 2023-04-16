@@ -2,7 +2,7 @@
 const { defineConfig } = require('@vue/cli-service')
 require('dotenv').config()
 
-//
+//in case we slpit code source to multiple parts in the same project
 const demo = ''
 
 //Module Exports
